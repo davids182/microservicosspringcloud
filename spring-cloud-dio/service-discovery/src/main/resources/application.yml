@@ -1,6 +1,6 @@
 spring:
   application:
-    name: produtcatalog
+    name: shopping-cart
 
   cloud:
     config:

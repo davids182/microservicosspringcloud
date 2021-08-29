@@ -6,4 +6,4 @@ server:
       config:
         server:
           git:
-            uri: https://github.com/davids182/productcatolog.git
+            uri: https://github.com/davids182/microservicosspringcloud.git
